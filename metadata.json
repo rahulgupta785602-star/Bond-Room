@@ -1,0 +1,8 @@
+{
+  "name": "Sterling Tools ERP - Inventory & Warehouse Management System",
+  "description": "Enterprise Oracle ERP-modeled Inventory and Warehouse Management System for Sterling Tools Limited with Bond Room data auto-segregation, OEM and Retail tracking, and Material Movement operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
